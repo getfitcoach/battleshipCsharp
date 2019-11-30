@@ -89,7 +89,9 @@ namespace Battleship
   // for (int j = 0; j < column; j++)
   // grid[i,j] = water
 
-    //Add ons
+    //
+
+// add - ons trying to make a change to commit to GitHub
     // let them know if they picked "close"
     // let them know if they picked the same coordinates before
     // once all battleships are sunk THEY WIN
